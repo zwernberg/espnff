@@ -1,1 +1,5 @@
 .pyc
+/.eggs
+espnff/__pycache__
+/espnff.egg-info
+tests/__pycache__
